@@ -102,8 +102,8 @@ GROUP_REPOS = [
 {
     "name": "MikkelRosenqvist",
     "gitlinks": ["https://github.com/MikkelRosenqvist/whoknows-mikkel"],
-    "backend": "",
-    "frontend": "",
+    "backend": "http://20.203.130.58",
+    "frontend": "http://20.203.130.58",
     "monitoring": "",
     "stack": ["Python", "Flask", "SQLite"],
     "documentation": [],
